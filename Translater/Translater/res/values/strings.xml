@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Translater</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_translater">Translater</string>
+    <string name="enter_your_word_here_">Enter your word here.</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+
+</resources>

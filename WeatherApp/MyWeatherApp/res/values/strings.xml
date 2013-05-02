@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="currentCity"> </string>
+    <string name="buttonСhange">Изменить</string>
+    <string name="textView1">19 ноября</string>
+    <string name="buttonRefresh">обновить</string>
+    <string name="textView_t">Сейчас</string>
+    <string name="textView_tDegrees">Температура: </string>
+    <string name="textView_tWing">Скорость ветра: </string>
+    <string name="textView_tPressure">Давление: </string>
+    <string name="textView_tRelHum">Влажность: </string>
+    <string name="chooseCity">Выберите город</string>
+    <string name="temp">N/A</string>
+    <string name="daaaay">PartyDay</string>
+    <string name="contentDesc">pic</string>
+    <string name="addCity">Добавить город</string>
+    <string name="changeInterval">Изменить интервал обновления</string>
+    <string name="textViewLine">------------------</string>
+    <string name="menuChangeInterval">Выберите интервал обновления</string>
+
+    <string name="_1hour">Каждый час</string>
+    <string name="_2hours">Каждые два часа</string>
+    <string name="_3hours">Каждые три часа</string>
+    <string name="_6hours">Каждые шесть часов</string>
+    <string name="_9hours">Каждые девять часов</string>
+    <string name="_12hours">Каждые двенадцать часов</string>
+    <string name="_1_2hour">Каждые полчаса</string>
+    <string name="_10sec">Каждые 10 секунд/тест</string>
+
+    <string name="menuAddCity">Добавить город</string>
+    <string name="menuChangeCity">Изменить город</string>
+    <string name="valid">Данные обновлены</string>
+    <string name="unvalid">Данные устарели</string>
+    <string name="button_hint">Для дополнительных опций нажмите меню</string>
+    <string name="IOexc">Проверьте ваше интернет соединение</string>
+    <string name="cityUnAvailable">Город не найден</string>
+    <string name="cityUnExist">Добавьте город или выберите из существующих</string>
+    <string name="chooseHint">Для выбора города кликните по нему.\n Для удаления нажмите и подержите.</string>
+    <string name="loading">Идёт загрузка</string>
+    <string name="firstCity">Санкт-Петербург</string>
+
+    <string name="temperature">"Температура: "</string>
+    <string name="wind_speed">"Скорость ветра: "</string>
+    <string name="pressure">"Давление: "</string>
+    <string name="humidity">"Влажность: "</string>
+    <string name="temperatureV">\u0020\u00B0С</string>
+    <string name="wind_speedV">" м/с"</string>
+    <string name="pressureV">" мм. рт. ст."</string>
+    <string name="humidityV">%</string>
+
+    <color name="red">#ff0000</color>
+    <color name="white">#ffffff</color>
+</resources>

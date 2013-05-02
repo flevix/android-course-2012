@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menuChangeInterval"
+          android:title="@string/menuChangeInterval"
+          android:orderInCategory="1">
+        <menu>
+            <item
+                    android:id="@+id/_10sec"
+                    android:title="@string/_10sec" >
+
+            </item>
+            <item
+                    android:id="@+id/_1_2hour"
+                    android:title="@string/_1_2hour" >
+
+            </item>
+            <item
+                    android:id="@+id/_1hour"
+                    android:title="@string/_1hour" >
+            </item>
+
+            <item
+                    android:id="@+id/_2hours"
+                    android:title="@string/_2hours" >
+            </item>
+
+            <item
+                    android:id="@+id/_3hours"
+                    android:title="@string/_3hours" >
+            </item>
+
+            <item
+                    android:id="@+id/_6hours"
+                    android:title="@string/_6hours" >
+            </item>
+            <item
+                    android:id="@+id/_9hours"
+                    android:title="@string/_9hours" >
+            </item>
+            <item
+                    android:id="@+id/_12hours"
+                    android:title="@string/_12hours" >
+            </item>
+        </menu>
+    </item>
+    <item
+            android:id="@+id/menuAddCity"
+            android:title="@string/menuAddCity"
+            android:orderInCategory="3" >
+    </item>
+    <item
+        android:id="@+id/menuChangeCity"
+        android:title="@string/menuChangeCity"
+        android:orderInCategory="2" >
+    </item>
+</menu>

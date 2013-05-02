@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TODO</string>
+    <string name="menuAddTodo">Добавить задачу</string>
+    <string name="insertName">Название заметки</string>
+    <string name="insertPrior">Приоритет. Цифра: 1, 2 или 3</string>
+    <string name="insertInfo">Описание заметки</string>
+    <string name="insertTodo">Добавить!</string>
+    <string name="editTodo">Изменить!</string>
+</resources>
